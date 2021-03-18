@@ -1,3 +1,5 @@
+//About Class
+
 package Notepad;
 import javax.swing.*;
 import java.awt.*;
